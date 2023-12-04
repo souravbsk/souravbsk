@@ -1,6 +1,4 @@
 
-![logo](https://github.com/souravbsk/souravbsk/blob/main/banner.png)
-
 <h1 align="center">Hi 👋, I'm Sourav Basak</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
@@ -14,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [http://souravbasak.com/](http://souravbasak.com/)
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **React, JavaScript, MongoDB, Express**
 
 - 📫 How to reach me **souravbsk01@gmail.com**
 
