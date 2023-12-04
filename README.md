@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **souravbsk01@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JsGK4WrN9lDECmJPrvJTtTUdryI3Jltd/view](https://drive.google.com/file/d/1JsGK4WrN9lDECmJPrvJTtTUdryI3Jltd/view)
+- 📄 Know about my experiences [Sourav Basak Resume](https://drive.google.com/file/d/1nXv2J3-moRgfTEoElNH923fUG3AqdKFc/view)
 
 - ⚡ Fun fact **I think iam funny .😉**
 
